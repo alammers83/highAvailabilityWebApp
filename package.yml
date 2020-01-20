@@ -1,0 +1,4 @@
+aws cloudformation package
+--template-file udagram2.yml 
+--s3-bucket udagramproject2
+--output-template-file udagram3.yml
